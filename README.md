@@ -30,9 +30,4 @@ Requisitos Previos
 Opción 1: Ejecutar en NetBeans
 - Java JDK 8 o superior
 - NetBeans IDE 12+
-- Graphviz (opcional, para generar imágenes PNG directamente)
-
-
-
-(Opcional) Instalar Graphviz desde:
-👉 https://graphviz.org/download/
+  
